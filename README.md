@@ -32,6 +32,8 @@ The goal of this project is to revolutionize the traditional attendance system b
 ---
 
 ## 📜 Contract Details
+![image](https://github.com/user-attachments/assets/6160f0ea-135c-4023-8fe6-145db074685b)
+
 - **Contract Name:** `NFTAttendance`
 - **Module Address:** `0x08fb8ad2e7f22ba9939d9216f07dedd48cdb0f6e429d2350bd85137af58eb5db`
 - **Key Functions:**
